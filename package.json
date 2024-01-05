@@ -1,0 +1,16 @@
+{
+  "name": "test-zero-dev-sepolia",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "print-address": "ts-node src/printAddress.ts"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@zerodev/sdk": "4.0.30",
+    "ts-node": "^10.9.2"
+  }
+}
