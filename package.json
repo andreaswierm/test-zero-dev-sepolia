@@ -10,7 +10,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@zerodev/sdk": "4.0.30",
+    "@zerodev/sdk": "4.5.4",
     "ts-node": "^10.9.2"
   }
 }
